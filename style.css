@@ -1,0 +1,143 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: rgba(176, 224, 230, 0.4);
+}
+
+.navbar {
+  font-size: 40px;
+  display: flex;
+  margin-left: 100px;
+  height: 121px;
+  width: 1920px;
+  color: black;
+  font-style: normal;
+}
+
+span {
+  padding: 30px;
+  font-family: "Alegreya SC", serif;
+  color: black;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Alegreya SC", serif;
+  color: black;
+  font-style: superthin;
+  font-size: 120px;
+  margin-left: 91px;
+  margin-top: 64px;
+  height: 120px;
+}
+
+h2 {
+  font-family: "Alegreya SC", serif;
+  color: black;
+  font-style: normal;
+  font-size: 50px;
+  margin-left: 76px;
+  margin-top: 50px;
+}
+
+h3 {
+  font-family: "Alegreya SC", serif;
+  color: black;
+  font-style: thin;
+  font-size: 36px;
+  margin-left: 100px;
+}
+
+.middle {
+  height: 570px;
+  width: 2500px;
+  background-color: white;
+  position: absolute;
+}
+
+.body {
+  height: 576px;
+  width: 1638px;
+  border-radius: 30px;
+  background-color: white;
+  margin-top: 92px;
+  margin-left: 139px;
+  position: absolute;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+  color: black;
+  font-style: normal;
+  font-size: 30px;
+  margin-left: 122px;
+}
+
+li {
+  font-family: "Lato", sans-serif;
+  color: black;
+  font-style: normal;
+  font-size: 30px;
+  margin-left: 122px;
+}
+
+.middle-bar {
+  height: 203px;
+  width: 2000px;
+  background-color: white;
+}
+
+#logo {
+  height: 569px;
+  width: 647px;
+  margin-left: 1379px;
+  margin-top: -350px;
+}
+
+.teacher-picture {
+  margin-left: 1000px;
+  margin-top: -365px;
+  height: 485px;
+  width: 485px;
+  border-radius: 100%;
+  background-color: rgba(176, 224, 230, 0.4);
+  position: absolute;
+}
+
+.teacher-picture-1 {
+  margin-left: 1000px;
+  margin-top: -195px;
+  height: 485px;
+  width: 485px;
+  border-radius: 100%;
+  background-color: rgba(176, 224, 230, 0.4);
+  position: absolute;
+}
+
+.teacher-picture-2 {
+  margin-left: 1000px;
+  margin-top: 310px;
+  height: 485px;
+  width: 485px;
+  border-radius: 100%;
+  background-color: rgba(176, 224, 230, 0.4);
+  position: absolute;
+}
+
+.about-body {
+  height: 1100px;
+  width: 1638px;
+  border-radius: 30px;
+  background-color: white;
+  margin-top: 92px;
+  margin-left: 139px;
+  position: absolute;
+}
+
+#teacher-2-info {
+  position: absolute;
+  margin-top: 400px;
+}
